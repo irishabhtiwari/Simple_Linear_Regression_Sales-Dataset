@@ -1,7 +1,7 @@
 <p align="center"> 
   <img src="https://png.pngtree.com/png-vector/20220527/ourmid/pngtree-finance-graph-grow-icon-png-image_4751329.png" width="80px" height="80px">
 </p>
-<h1 align="center"> Sales for advertisement </h1>
+<h1 align="center"> Sales Prediction for Advertisement </h1>
 <h3 align="center">  Simple Linear Regression  </h3>
 <h5 align="center">  <a href="https://www.concordia.ca/">IIIT Bengaluru</a> (2022) </h5>
 <p align="center"> 
@@ -50,7 +50,27 @@
   
   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
   
-  <!-- CREDITS -->
+  
+ ## 📝 Description
+ 
+ <b> Performed following tasks : </b> 
+<li><b> Reading and Understanding the Data </b> 
+<li><b> Visualising the Data
+<li><b> Performing Simple Linear Regression using Statsmodels </b> 
+<li><b> Residual Analysis </b> 
+<li><b> Prediction on the Test Set </b> 
+<li><b> Conclusion </b> 
+  
+
+  
+  <p align="center"> 
+     <img src="https://gifdb.com/images/high/more-feature-more-sales-dey28yf8hvp0bo39.webp">
+   
+   
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
+   
+   <!-- CREDITS -->
   <h2 id="credits"> :scroll: Credits</h2>
   
   Rishabh Tiwari
