@@ -3,7 +3,7 @@
 </p>
 <h1 align="center"> Sales Prediction for Advertisement </h1>
 <h3 align="center">  Simple Linear Regression  </h3>
-<h5 align="center">  <a href="https://www.concordia.ca/">IIIT Bengaluru</a> (2022) </h5>
+<h5 align="center">  <a href="https://www.concordia.ca/">IIIT Bengaluru</a> (2023) </h5>
 <p align="center"> 
    <img src="https://www.the-future-of-commerce.com/wp-content/uploads/2023/01/Sales-Trends-23_SOCIAL-optimized.gif" alt="https://www.the-future-of-commerce.com/wp-content/uploads/2023/01/Sales-Trends-23_SOCIAL-optimized.gif">
    <h2> ⚡️ Business Objectives</h2>
